@@ -22,8 +22,7 @@
 
 ## Overview
 
-This project is a **single-page portfolio website** developed as part of the **CognitiveClass / Coursera Hands-On Lab**.  
-It showcases a personal portfolio with modern UI styling and interactive functionality using **HTML, CSS, and JavaScript**.
+This is a **single-page portfolio website** developed to showcase a personal portfolio with modern UI styling and interactive functionality using **HTML, CSS, and JavaScript**.
 
 The website is designed to present a professional profile to potential employers, including skills, projects, and recommendations, all within a clean and responsive layout.
 
